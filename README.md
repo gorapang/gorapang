@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnwjdqkr)](https://solved.ac/wnwjdqkr/)
 
+<br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@wnwjdqkr) 
 
 
